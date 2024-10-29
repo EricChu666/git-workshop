@@ -1,1 +1,18 @@
 This is Eric's file lol
+
+git pull
+git branch
+git checkout (collaborators names if have)
+git status
+
+
+git add .
+git commit -m "The message we gonna add"
+# if Authoer identity unknown
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+#
+git commit --m "file_name"
+git pull
+git push -u origin branch_name
+
