@@ -16,3 +16,7 @@ git commit --m "file_name"
 git pull
 git push -u origin branch_name
 
+# create a new pull request in Github
+- Base: main
+- Compare: feature-a or feature-b
+- Title: add feature A or feature B
